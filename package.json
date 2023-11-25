@@ -1,0 +1,16 @@
+{
+  "name": "fivem-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "discord.js": "^14.14.1"
+  }
+}

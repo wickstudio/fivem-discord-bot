@@ -1,0 +1,3 @@
+@echo off
+echo Starting your Discord bot...
+node index.js
