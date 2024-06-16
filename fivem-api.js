@@ -78,4 +78,3 @@ class FiveMAPI {
 }
 
 module.exports = FiveMAPI;
-
